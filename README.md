@@ -18,21 +18,21 @@
 
 ## 📷 Screenshots:
 <p align="center">
-<img src="https://i.imgur.com/l5wCrnE.png" height="100%" width="100%" alt="YouTube clone"/>
+<img src="https://i.imgur.com/l5wCrnE.png" height="100%" width="100%" alt="Nike landing page"/>
 <br />
-<img src="https://i.imgur.com/ZR8FJ1F.png" height="100%" width="100%" alt="YouTube clone"/>
+<img src="https://i.imgur.com/ZR8FJ1F.png" height="100%" width="100%" alt="Nike landing page"/>
 <br />
-<img src="https://i.imgur.com/qmbrDex.png" height="100%" width="100%" alt="YouTube clone"/>
+<img src="https://i.imgur.com/qmbrDex.png" height="100%" width="100%" alt="Nike landing page"/>
 <br />
-<img src="https://i.imgur.com/PIL1A3S.png" height="100%" width="100%" alt="YouTube clone"/>
+<img src="https://i.imgur.com/PIL1A3S.png" height="100%" width="100%" alt="Nike landing page"/>
 <br />
-<img src="https://i.imgur.com/QkaEybw.png" height="100%" width="100%" alt="YouTube clone"/>
+<img src="https://i.imgur.com/QkaEybw.png" height="100%" width="100%" alt="Nike landing page"/>
 <br />
-<img src="https://i.imgur.com/OSjHODV.png" height="100%" width="100%" alt="YouTube clone"/>
+<img src="https://i.imgur.com/OSjHODV.png" height="100%" width="100%" alt="Nike landing page"/>
 <br />
-<img src="https://i.imgur.com/4PlCThh.png" height="100%" width="100%" alt="YouTube clone"/>
+<img src="https://i.imgur.com/4PlCThh.png" height="100%" width="100%" alt="Nike landing page"/>
 <br />
-<img src="https://i.imgur.com/7wkmkTJ.png" height="50%" width="50%" alt="YouTube clone"/>
+<img src="https://i.imgur.com/7wkmkTJ.png" height="50%" width="50%" alt="Nike landing page"/>
 <br />
 
 
